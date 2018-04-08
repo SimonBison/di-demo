@@ -1,6 +1,6 @@
-package guru.springframework.didemo.controllers;
+package springframework.controllers;
 
-import guru.springframework.didemo.services.GreetingService;
+import springframework.services.GreetingService;
 
 public class ConstructorInjectedController {
 

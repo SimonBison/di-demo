@@ -1,6 +1,6 @@
-package guru.springframework.didemo.controllers;
+package springframework.controllers;
 
-import guru.springframework.didemo.services.GreetingServiceImpl;
+import springframework.services.GreetingServiceImpl;
 
 public class PropertyInjectedController {
 

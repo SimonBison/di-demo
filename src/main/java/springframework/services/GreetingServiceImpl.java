@@ -1,4 +1,4 @@
-package guru.springframework.didemo.services;
+package springframework.services;
 
 import org.springframework.stereotype.Service;
 

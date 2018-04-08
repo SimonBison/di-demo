@@ -1,6 +1,6 @@
-package guru.springframework.didemo;
+package springframework;
 
-import guru.springframework.didemo.controllers.MyController;
+import springframework.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
