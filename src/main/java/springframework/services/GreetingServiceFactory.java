@@ -20,6 +20,5 @@ public class GreetingServiceFactory {
             default:
                 return new PrimaryGreetingService(greetingRepository);
         }
-
     }
 }
